@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Devops word"
+echo "Hello Devops world"
