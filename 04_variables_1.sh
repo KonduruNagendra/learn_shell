@@ -1,5 +1,5 @@
 #!/bin/bash  # this is shebang/hashbang
-person1=$1  #no space after eual
+person1=$1  #no space after equal
 person2=$2
 
 echo " $person1 :: $person2 How are you ?"
