@@ -2,7 +2,7 @@
 person1=Konduru  #no space after eual
 person2=Nagendra
 
-echo " Konduru :: Nagendra How are you ?"
-echo " Nagendra :: Konduru iam good how are you ?"
-echo " Konduru :: Nagendra iam good too ?"
-echo "we are freiends !"
+echo " $person1 :: $person2 How are you ?"
+echo " $person2 :: $person1 iam good how are you ?"
+echo " $person1 :: $person2 iam good too ?"
+echo " HURRY ! $person1 $person2 we are friends !"
