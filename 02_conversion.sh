@@ -1,3 +1,4 @@
 #!/bin/bash  # this is shebang/hashbang
-echo "Nagendra How are you ? What are you doing?"
-echo "Prasad iam good how are you ?"
+echo " Konduru : Nagendra How are you ?"
+echo "Nagendra : Konduru iam good how are you ?"
+echo " Konduru : Nagendra iam good too ?"
